@@ -138,6 +138,13 @@ Currently there is a Go and javascript implementations
 - It uses a DHT for peer and content discovery
   - But its not limited to that - i.e. javascript's DHT is still not 100% functional
   so both passive and active discovery is used - mdns, bootstrap nodes, etc...
+- transport agnostic, can use any underlying protocol as a transport
+  - TCP
+  - udp*
+  - quick*
+  - WebSockets
+  - WebRTC
+  - etc...
 
 ---
 
@@ -151,7 +158,7 @@ A protocol to govern how chunks of data are exchanged
 
 ---
 
-## IPLD - Interplanetary Linked Data
+## IPLD - Interplanetary Linked Data (merkle forest)
 
 ---
 
