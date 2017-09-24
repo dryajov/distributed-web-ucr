@@ -9,7 +9,7 @@
 
 - Dmitri Ryajov
 - go by `dryajov` everywhere
-- working on IPFS - specifically on the js-ipfs circuit relaying so far
+- working on IPFS - specifically on the js-ipfs circuit relaying
 
 ---
 
@@ -40,7 +40,7 @@ Bandwidth around the world (with a few exceptions) has not been keeping up with 
 
 - There is around ~50% of the worlds population that has not yet gone online or are only intermittently connected. How are we going to scale the web when they do, and more over, how can we make it so that their experience doesn't suck when it happens?
 
-- What happens when latency is ~10 or even ~1 minute? Impossible? Think twice - a Mars mission might not be that far away.
+- What happens when latency is ~10 or even ~5 minutes? Impossible? Think twice - a Mars mission might not be that far away.
 
 ---
 
